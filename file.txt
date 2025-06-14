@@ -1,0 +1,17 @@
+GITHUB
+
+
+git init
+
+git add .
+
+git commit -m "Initial commit: REST API implementation for question1"
+
+git remote add origin https://github.com/gourav650/1RN22AI999.git
+
+git config --global user.name "gourav650"
+git config --global user.email "your.github@email.com"
+
+git push -u origin main
+
+git push -u origin master
